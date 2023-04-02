@@ -1,0 +1,11 @@
+Author: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
+
+--- spice-vdagent-0.22.1.orig/data/spice-vdagent.desktop
++++ spice-vdagent-0.22.1/data/spice-vdagent.desktop
+@@ -4,6 +4,3 @@ Comment=Agent for Spice guests
+ Exec=/usr/bin/spice-vdagent
+ Terminal=false
+ Type=Application
+-Categories=
+-X-GNOME-Autostart-Phase=WindowManager
+-NoDisplay=true

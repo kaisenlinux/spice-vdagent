@@ -1,0 +1,3 @@
+systemd_service_default_file.patch
+disable_test_session_info.patch
+kaisen-fix-spice-vdagent-no-run
